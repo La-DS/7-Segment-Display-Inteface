@@ -1,5 +1,7 @@
 # 7 Segment Serial Display Interface
 
+![7 segment display interface circuit](/demo/Breadboard Circuit Photo.JPG)
+
 ## Overview
 
 This project demonstrates how a 74HC595N shift register can be used to connect a microcontroller development board with limited I/O pins with a common-cathode 7-segment display. An ATtiny85-based Trinket 5V microcontroller board was used in this project. When the program is running, the 7-segment display cycles through all hexadecimal numerals: `0` through `F`.
