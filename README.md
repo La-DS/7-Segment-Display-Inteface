@@ -1,6 +1,6 @@
 # 7 Segment Serial Display Interface
 
-![7 segment display interface circuit](/demo/Breadboard Circuit Photo.JPG)
+![7 segment display interface circuit](https://github.com/La-DS/7-Segment-Display-Inteface/blob/main/Demo/Breadboard%20Circuit%20Photo.JPG)
 
 ## Overview
 
