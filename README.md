@@ -23,6 +23,8 @@ By utilizing only built-in Arduino functions, the code remains very portable. Fu
 - Half-sized breadboard
 - Various jumper cables cut to length
 
+## Demo
+Photo and video of circuit are in the `Demo` directory.
 
 ## License
 - GPL-3.0 license applies to the software
